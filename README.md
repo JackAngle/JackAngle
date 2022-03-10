@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackAngle
 - 👀 I’m interested in NFT, Dapp and blockchain technology
-- 🌱 I’m currently learning NodeJS, Truffle, Solidity
+- 🌱 I’m currently learning Hardhat, Rust, Solidity
 - 💞️ I’m looking to collaborate on developing smart contracts and future blockchain applications.
 - 📫 
 
