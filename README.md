@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @JackAngle
-- 👀 I’m interested in NFT, Dapp and blockchain technology
-- 🌱 I’m currently learning Hardhat, Rust, Solidity
-- 💞️ I’m looking to collaborate on developing smart contracts and future blockchain applications.
-- 📫 
+- Hi there 👋, I’m @JackAngle
+- I’m a C++/Python/Smart contract/Blockchain Software Developer.
+- I'm here to research & experiment coding projects.
+- At the moment, Blockchain space contains a lot of interest thing that you will wanna learn. It's not just crypto,
+it's about new technology that gonna change the work like the way internet did.
+- 
 
 <!---
 JackAngle/JackAngle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
